@@ -15,9 +15,9 @@ nav_order: 2
 
 ---
 
-{: .fw-500 }
-
 # Assumptions
+
+{: .fw-500 }
 
 - You are a decent programmer in another language
 
