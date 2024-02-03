@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 2
+{: .fw-500 }
 ---
 
 # Introduction
