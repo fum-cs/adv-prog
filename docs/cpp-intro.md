@@ -17,8 +17,6 @@ nav_order: 2
 
 # Assumptions
 
-{: .fw-500 }
-
 - You are a decent programmer in another language
 
 - You know how to use the shell
