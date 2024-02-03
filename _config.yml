@@ -18,3 +18,8 @@ aux_links:
     - 'https://mamintoosi.github.io'
   Class Repository:
     - 'https://github.com/fum-cs/adv-prog'
+
+# Default layouts for each collection type
+defaults:
+  - font:
+      weight: 500
