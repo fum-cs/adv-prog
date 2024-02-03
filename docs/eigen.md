@@ -1,9 +1,20 @@
-template: titleslide
-# Linear Algebra for C++ (using Eigen)
-## Joseph Lee, EPCC
-## j.lee@epcc.ed.ac.uk
+---
+layout: default
+title: Linear Algebra
+nav_order: 9
+---
+
+# Linear Algebra
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # Source
 
 Original: 

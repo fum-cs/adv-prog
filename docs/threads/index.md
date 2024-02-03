@@ -1,7 +1,21 @@
-template: titleslide
+---
+layout: default
+title: C++ Threads - Basics
+nav_order: 10
+has_children: true
+---
+
 # C++ Threads - Basics
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # Overview
 
 - Introduction

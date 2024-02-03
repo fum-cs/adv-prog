@@ -1,7 +1,20 @@
-template: titleslide
-# Resource management
+---
+layout: default
+title: Managing Resources
+nav_order: 5
+---
+
+# Managing Resources
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # Resources
 
 In a program you often need to manage things like:

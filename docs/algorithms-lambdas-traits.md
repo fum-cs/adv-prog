@@ -1,13 +1,18 @@
-template: titleslide
-
-# Algorithms, lambdas, traits
-## Rupert Nash
-## r.nash@epcc.ed.ac.uk
-
+---
+layout: default
+title: Algorithms, lambdas, traits
+nav_order: 7
 ---
 
-template: titleslide
-# Recap
+# Algorithms, lambdas, traits
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
 # Iterators

@@ -1,9 +1,19 @@
-template: titleslide
-# Containers, loops, and iterators
-## Rupert Nash
-## r.nash@epcc.ed.ac.uk
+---
+layout: default
+title: Containers, loops, and iterators
+nav_order: 4
+---
 
-???
+# Containers, loops, and iterators
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 We've pretty much only talked about working on single things at once
 

@@ -1,15 +1,20 @@
-template: titleslide
-
-# A brief introduction to C++
-## Maurice Jamieson, EPCC
-## m.jamieson@epcc.ed.ac.uk
-
+---
+layout: default
+title: Introduction
+nav_order: 2
 ---
 
-template: titleslide
 # Introduction
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # Assumptions
 
 - You are a decent programmer in another language

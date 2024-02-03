@@ -1,10 +1,20 @@
-template: titleslide
-# Classes
-## Maurice Jamieson, EPCC
-## m.jamieson@epcc.ed.ac.uk
+---
+layout: default
+title: Classes
+nav_order: 3
+---
 
+# Classes
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # User defined types
 
 Called "class types" formally - can be defined with either the `class`

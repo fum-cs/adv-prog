@@ -1,9 +1,19 @@
-template: titleslide
-# Templates
-## Rupert Nash
-## r.nash@epcc.ed.ac.uk
+---
+layout: default
+title: Templates
+nav_order: 6
+---
 
-???
+# Templates
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 We've hinted at this already, with `std::vector<int>`, `std::shared_ptr<Cowboy>` etc
 

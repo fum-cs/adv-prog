@@ -1,7 +1,21 @@
-template: titleslide
+---
+layout: default
+title: C++ Threads – Further topics
+nav_order: 10
+parent: C++ Threads - Basics
+---
+
 # C++ Threads – Further topics
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
 # Overview
 
 - `std::async` and futures

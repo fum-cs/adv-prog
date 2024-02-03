@@ -1,3 +1,11 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
+
+
+
 # Lectures
 
 * [A brief introduction to C++](cpp-intro)
