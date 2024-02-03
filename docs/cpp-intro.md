@@ -2,7 +2,6 @@
 layout: default
 title: Introduction
 nav_order: 2
-{: .fw-500 }
 ---
 
 # Introduction
@@ -15,6 +14,8 @@ nav_order: 2
 {:toc}
 
 ---
+
+{: .fw-500 }
 
 # Assumptions
 

@@ -2,8 +2,9 @@
 layout: default
 title: Classes
 nav_order: 3
-{: .fw-700 }
 ---
+
+{: .fw-700 }
 
 # Classes
 {: .no_toc }

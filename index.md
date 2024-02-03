@@ -42,5 +42,5 @@ parallel performance which are commonly implemented in C++.
 * [Lectures](lectures/)
 * [Practical exercises](exercises/)
 
-* The original pages was from [EPCCed](https://epcced.github.io/archer2-cpp/) and the related [rpository](https://github.com/EPCCed/archer2-cpp/).
+* The original pages was from [EPCCed](https://epcced.github.io/archer2-cpp/) and the related [repository](https://github.com/EPCCed/archer2-cpp/).
 I would like to thank [Rupert Nash](mailto:r.nash@epcc.ed.ac.uk) and [Maurice Jamieson](mailto:m.jamieson@epcc.ed.ac.uk) from the University of Edinburgh for their great work and generosity.
